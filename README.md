@@ -5,6 +5,7 @@ This is a website project for a store that aimed to sell underwear. The website 
 * HTML
 * CSS
 * JavaScript
+* Email notification system
 
   
 ## Project Status
